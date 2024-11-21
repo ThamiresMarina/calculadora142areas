@@ -1,0 +1,7 @@
+base,altura,area_esperada,descricao
+4.0,3.0,6.0,triangulo normal
+6.0,4.0,12.0,triangulo maior
+2.5,2.0,2.5,triangulo com base decimal
+1.0,10.0,5.0,triangulo alto e fino
+8.0,1.5,6.0,triangulo largo e baixo
+3.0,3.0,4.5,triangulo equilateral
